@@ -21,7 +21,7 @@ There is also a `db` directory which contains a sample SQLite database seeded wi
 and a `prisma` directory which contains the Prisma schema file.
 
 ```
-swell-devtest
+review-viewer
 ├── apps (backend and front end applications)
 │   ├── reviews-api
 │   │   └── src
